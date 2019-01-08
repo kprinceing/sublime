@@ -1,0 +1,5 @@
+{
+"cmd": ["D:/MATLAB/2014/bin/matlab.exe", "-nodesktop", "-nosplash", "-r", "\"run('$file')\""],
+   "selector": "source.m",
+   "working_dir": "${project_path:${folder}}"
+}

@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"3024 Color Scheme",
+		"BracketHighlighter",
+		"IMESupport",
+		"LaTeX Word Count",
+		"LaTeXTab",
+		"LaTeXTools",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control",
+		"Pandoc",
+		"PlainTasks",
+		"Pywin32",
+		"SideBarEnhancements",
+		"StataEditor",
+		"Sublime Tutor",
+		"Sync Settings",
+		"Theme - Autumn"
+	]
+}

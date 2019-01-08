@@ -1,0 +1,26 @@
+{
+	"access_token": "3e2cf6fe0814dd448ed2cc1b7dcfd604de616928",
+	"auto_upgrade": true,
+	"excluded_files":
+	[
+		".dmg",
+		".DS_Store",
+		".DS_Store?",
+		".exe",
+		".Spotlight-V100",
+		".Trashes",
+		"ehthumbs.db",
+		"oscrypto-ca-bundle.crt",
+		"SyncSettings.sublime-settings",
+		"Package Control.cache",
+		"Package Control.last-run",
+		"Package Control.merged-ca-bundle",
+		"Package Control.system-ca-bundle",
+		"Package Control.user-ca-bundle",
+		"Thumbs.db"
+	],
+	"gist_id": "3d4bb0315ffdb3f5e5dfd49358f28053",
+	"included_files":
+	[
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"character_encoding": "windows-1252",
+	"command_completions": true,
+	"default_path": "current_path",
+	"ensure_newline_at_eof_on_save": true,
+	"extensions":
+	[
+		"do"
+	],
+	"file_completions": true,
+	"function_completions": true,
+	"stata_path": "C:/Program Files (x86)/Stata14/StataMP-64.exe",
+	"stata_version": 14,
+	"variable_completions": true,
+	"waiting_time": 0.5
+}
